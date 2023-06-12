@@ -1,0 +1,84 @@
+html {
+  display: table;
+  margin: auto;
+}
+
+body {
+  font-family: 'Calibri';
+  background-color: black;
+  color:white;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+table {
+  width: 800px;
+  border-spacing: 0px;
+}
+
+th {
+  color:orange;
+  padding: 5px;
+}
+
+td {
+  border: 1px solid orange;
+  padding: 5px;
+}
+
+.Navbar {
+  text-align: center;
+}
+
+.FooterNavbar {
+  text-align: center;
+  font-size:12px;
+}
+
+.Copyright {
+  color:white;
+  font-size:12px;
+  text-align: center;
+}
+
+.Banner {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:800px;
+}
+
+.sidebar {
+  text-align: center;
+  width:250px;
+  float:right;
+}
+
+.home-content {
+  font-size:10;
+  width:550px;
+  float:left;
+}
+
+.page {
+  width:800px;
+  padding-left: 50px;
+}
+
+.leftNav {
+  width:250px;
+  float:left;
+}
+
+.content {
+  font-size:10;
+  width:550px;
+  float:right;
+}
+
+.title {
+  font-size:30px;
+  font-weight:bold;
+  color: orangered;
+  font-family:papyrus;
+}
